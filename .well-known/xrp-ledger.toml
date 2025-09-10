@@ -1,0 +1,24 @@
+[[ISSUERS]]
+[[ISSUERS]]
+address = "rGSWkbr1sHAxETn74GZd2mgKJUHt98tR99"
+name = "X Meta Finance"
+
+  [[TOKENS]]
+  issuer = "rGSWkbr1sHAxETn74GZd2mgKJUHt98tR99"
+  currency = "XMF"
+  name = "X Meta Finance"
+  desc = "XMF is de native token van X Meta Finance, ontwikkeld om nieuwe mogelijkheden binnen het financiële ecosysteem te ondersteunen."
+  icon = "https://xmf.github.io/jouw-repo/logo.png"
+
+  [[TOKENS.URLS]]
+  url = "https://xmf.github.io/xmetafinance/"
+  type = "website"
+
+  [[TOKENS.URLS]]
+  url = "https://twitter.com/xmeta_finance"
+  type = "social"
+
+  [[TOKENS.URLS]]
+  url = "https://t.me/xmeta_finance"
+  type = "social"finance"
+  type = "social"
